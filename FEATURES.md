@@ -22,3 +22,20 @@ The installer adds these three Flathub applications for frontend web development
 3. **Arduino IDE 2** — cc.arduino.IDE2
 
 They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.
+
+## Ten more purpose-specific preinstalled applications
+
+The setup installs these ten Flathub apps selected for frontend web development:
+
+1. **Thonny** — write and debug Python code (org.thonny.Thonny)
+2. **Godot Engine** — build and test 2D and 3D games (org.godotengine.Godot)
+3. **DB Browser for SQLite** — inspect SQLite databases (org.sqlitebrowser.sqlitebrowser)
+4. **OpenSCAD** — model parametric 3D parts in code (org.openscad.OpenSCAD)
+5. **GNOME Boxes** — test workflows in virtual machines (org.gnome.Boxes)
+6. **GNOME Text Editor** — edit plain-text notes and configuration files (org.gnome.TextEditor)
+7. **GNOME Calculator** — perform scientific and financial calculations (org.gnome.Calculator)
+8. **GNOME Logs** — inspect logs during troubleshooting (org.gnome.Logs)
+9. **Disk Usage Analyzer** — find large files and manage storage (org.gnome.baobab)
+10. **Flatseal** — review Flatpak app permissions (com.github.tchx84.Flatseal)
+
+Flathub distributes the app packages. Check each publisher license and terms. This repository contains app IDs and documentation, not third-party binaries.

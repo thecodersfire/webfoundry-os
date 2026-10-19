@@ -25,8 +25,4 @@ The `webfoundry.svg` wallpaper is original. Webfoundry OS is an independent Ubun
 See [FEATURES.md](FEATURES.md) for three local tools included for frontend web development.
 
 
-The installer also includes three purpose-specific applications: **Wireshark, org.kicad.KiCad, Arduino IDE 2**. See [FEATURES.md](FEATURES.md).
-
-The installer also includes three purpose-specific applications: **Wireshark, KiCad, Arduino IDE 2**. See [FEATURES.md](FEATURES.md).
-
-The installer also includes three purpose-specific applications: **Wireshark, KiCad, Arduino IDE 2**. See [FEATURES.md](FEATURES.md).
+The installer includes ten more applications selected for this distro's purpose. See [FEATURES.md](FEATURES.md) for the list.
